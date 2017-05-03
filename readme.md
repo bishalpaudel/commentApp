@@ -2,7 +2,7 @@
 
 A simple nested comment application built with Laravel 5.4 and AngularJS 1.6.
 
-###Backend:
+### Backend:
 - Controller: App\Http\Controllers\Controller [Folder: app/Http/Controllers]
 - Model: App\Comment [Folder: app]
 - Comment Seeder Factory: [Folder: database/factories/ModelFactory.php]
@@ -25,7 +25,7 @@ A simple nested comment application built with Laravel 5.4 and AngularJS 1.6.
     - Unit: [Folder: tests/unit]
         - CommentControllerTest
 
-###Frontend:
+### Frontend:
 - Libraries: 
     - AngularJS 1.6.1
     - Angular Animate 1.6.1
@@ -39,7 +39,7 @@ A simple nested comment application built with Laravel 5.4 and AngularJS 1.6.
     - Laravel5.4 and its dependencies
     - AngularJS, AngularAnimate, BootstrapUI
 
-##Installation:
+## Installation:
     - Clone this repository and run into bash: 
         php composer.phar update
     - Set correct settings (based on your environment) on .env file
