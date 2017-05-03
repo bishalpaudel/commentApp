@@ -50,7 +50,7 @@ A simple nested comment application built with Laravel 5.4 and AngularJS 1.6.
         php artisan db:seed
     - Run PHP7 Server:
         php artisan serve
-        Then use provided url to access the application in the browser
+        Then use provided url to access the application in the browser.
 
 ## TODO:
 - Angular View should use Directives for dynamic nesting of comments. I tried this, but came up with few issues, and rolled back to manual levels (hard layering with CommentLayer1, CommentLayer2 and CommentLayer3).
